@@ -1,0 +1,13 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url("images/4k.jpg");
+    background-attachment:scroll;
+    background-size:  100% 100%;
+    background-repeat: no-repeat;
+    justify-content: space-around;
+
+}

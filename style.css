@@ -27,9 +27,9 @@ body{
     border: 2.5px solid rgb(27, 26, 26);
     border-radius: 10%;
     box-shadow: 0 30px 30px hsla(0, 3%, 3%, 0.75);
-    
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 20px;
 }
 #intwork:hover {
     box-shadow: 0 8px 16px 0 #3a20ce;
@@ -116,6 +116,14 @@ margin-left: -30px;
     justify-content: space-evenly;
     display: flex;
 
+
+}
+footer{
+    color:rgba(214, 205, 205, 0.616);
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Galada', cursive;
+    margin-bottom: 45px;
 
 }
 
