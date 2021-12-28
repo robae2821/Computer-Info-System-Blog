@@ -29,7 +29,7 @@ body{
     box-shadow: 0 30px 30px hsla(0, 3%, 3%, 0.75);
     margin-left: 20px;
     margin-right: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 #intwork:hover {
     box-shadow: 0 8px 16px 0 #3a20ce;
@@ -44,6 +44,31 @@ body{
 #comhard:hover {
     box-shadow: 0 8px 16px 0 #3a20ce;
 }
+#network{
+    background-color: rgba(150, 144, 144, 0.363);
+    color: rgba(255, 255, 255, 0.747);
+    border: 2.5px solid rgb(27, 26, 26);
+    border-radius: 10%;
+    box-shadow: 0 30px 30px hsla(0, 3%, 3%, 0.75);
+    margin-top: 14px;
+ }
+ #network:hover{
+    box-shadow: 0 8px 16px 0 #3a20ce;
+ }
+ #firewall{
+    background-color: rgba(110, 104, 104, 0.712);
+    color: rgba(255, 255, 255, 0.863);
+    border: 2.5px solid rgb(27, 26, 26);
+    border-radius: 10%;
+    box-shadow: 0 30px 30px hsla(0, 3%, 3%, 0.75);
+    margin-top: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+ }
+ #firewall:hover{
+    box-shadow: 0 8px 16px 0 #3a20ce;
+ }
 h1{
     font-size: 48px;
     color: rgb(192, 81, 47);
